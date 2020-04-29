@@ -16,9 +16,9 @@
 using namespace std;
 
 const string CSV_FILENAME = "MyStore-Inventory.csv"; // CSV file name created to hold data.
-const int SLEEP_TIME = 500;                      // The amout of time in milliseconds programs wait before each function call.
-const int ERROR_TIME = 4000;                     // The amout of time in milliseconds programs waits on some error messages.
-const double TAX_PERCENTAGE = .0625;             // 6.25% TAX Percentage.
+const int SLEEP_TIME = 500;							 // The amout of time in milliseconds programs wait before each function call.
+const int ERROR_TIME = 4000;						 // The amout of time in milliseconds programs waits on some error messages.
+const double TAX_PERCENTAGE = .0625;				 // 6.25% TAX Percentage.
 
 const string SCREEN_HEADER = "\n\t    M Y   C O N V I N I E N T   B O O K   S T O R E   M A N A G E M E N T   S Y S T E M"
                              "\n\t____________________________________________________________________________________________\n";
